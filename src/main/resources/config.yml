@@ -1,0 +1,15 @@
+api-server: http://localhost:30030/api
+
+server-name: Alset 1.18.2
+server-desc: Confirm to connect to Alset Minecraft Server
+
+channel-id: §f8356nc42vy
+reference-page: https://meowdream.cn/wiki
+
+enable-captcha: true
+
+captcha-not-authed: §9你还没有完成验证呐
+captcha-code-error: §c验证码错误，请重试
+captcha-needed: §9请输入验证码以继续
+
+captcha-countdown-duration: 30

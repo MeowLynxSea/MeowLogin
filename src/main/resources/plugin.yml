@@ -1,0 +1,11 @@
+name: MeowLogin
+author: Mewn_Lynsi
+version: 1.0.0-SNAPSHOT
+main: cn.meowdream.meowlogin.Main
+api-version: "1.18"
+
+commands:
+  mlreload:
+    description: 重载MeowLogin配置文件
+    usage: /mlreload
+    permission: meowlogin.reload
